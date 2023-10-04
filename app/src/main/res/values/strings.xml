@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Вывод погоды вашего города</string>
+    <string name="nevveligorod">Вы не ввели город! Повторите попытку</string>
+    <string name="nachalo">Вывод погоды в вашем городе</string>
+    <string name="vvodgoroda">Введите ваш город</string>
+</resources>
